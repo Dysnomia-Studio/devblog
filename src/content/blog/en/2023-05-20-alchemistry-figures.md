@@ -3,6 +3,9 @@ layout: post
 title:  "1 year after launch: Figures about Alchemistry"
 tags: gamedev steam marketing alchemistry post-mortem
 categories: gamedev
+pubDate: '2023-05-20'
+updatedDate: '2023-12-24'
+heroImage: '../../../assets/alchemistry-hero.png'
 ---
 
 *This post was initialy written on [Twitter](https://twitter.com/DysnomiaStudio/status/1655492420803371010) and [Mastodon](https://mastodon.gamedev.place/@Elanis/110332183413305320) as a thread.*

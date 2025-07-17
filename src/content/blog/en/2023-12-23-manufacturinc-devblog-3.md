@@ -3,6 +3,8 @@ layout: post
 title:  "Manufactur'inc DevBlog #3 - Logistics"
 tags: gamedev steam devblog manufacturinc
 categories: gamedev
+pubDate: '2023-12-23'
+heroImage: '../../../assets/manufacturinc-hero.png'
 ---
 
 [This post was originally published on Steam](https://store.steampowered.com/news/app/2146380/view/3883856311467351828)

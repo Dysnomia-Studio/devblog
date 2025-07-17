@@ -3,6 +3,9 @@ layout: post
 title:  "Programmers Sale 2023 with Extortion"
 tags: gamedev steam marketing extortion post-mortem
 categories: gamedev
+pubDate: '2023-10-11'
+updatedDate: '2024-12-27'
+heroImage: '../../../assets/extortion-hero.png'
 ---
 
 *This post is also available as a thread on [Twitter](https://twitter.com/Elanis42/status/1712146551038980376), [Bluesky](https://bsky.app/profile/elanis.eu/post/3kbiia2tjzl2o) and [Mastodon](https://mastodon.gamedev.place/@Elanis/111217403511029788).*

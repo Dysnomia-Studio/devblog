@@ -3,6 +3,8 @@ layout: post
 title:  "Manufactur'inc DevBlog #5 - Votre mission si toutefois vous l'acceptez..."
 tags: gamedev steam devblog manufacturinc
 categories: gamedev
+pubDate: '2024-02-21'
+heroImage: '../../../assets/manufacturinc-hero.png'
 ---
 
 [Ce post a été originellement publié sur Steam](https://store.steampowered.com/news/app/2146380/view/4160833394874745089)

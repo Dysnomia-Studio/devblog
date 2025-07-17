@@ -3,6 +3,8 @@ layout: post
 title:  "Manufactur'inc DevBlog #8 - November summary and Manufactur'inc future"
 tags: gamedev steam devblog manufacturinc
 categories: gamedev
+pubDate: '2024-12-10'
+heroImage: '../../../assets/manufacturinc-hero.png'
 ---
 
 [This post was originally published on Steam](https://store.steampowered.com/news/app/2146380/view/519699278946371779)

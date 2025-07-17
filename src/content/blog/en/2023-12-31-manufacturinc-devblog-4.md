@@ -3,6 +3,8 @@ layout: post
 title:  "Manufactur'inc DevBlog #4 - Events, events everywhere"
 tags: gamedev steam devblog manufacturinc
 categories: gamedev
+pubDate: '2023-12-31'
+heroImage: '../../../assets/manufacturinc-hero.png'
 ---
 
 [This post was originally published on Steam](https://store.steampowered.com/news/app/2146380/view/3883856311496283654)

@@ -3,6 +3,8 @@ layout: post
 title:  "Manufactur'inc DevBlog #7 - Leçons tirées de la Steam Next Fest"
 tags: gamedev steam devblog manufacturinc
 categories: gamedev
+pubDate: '2024-10-22'
+heroImage: '../../../assets/manufacturinc-hero.png'
 ---
 
 [Ce post a été originellement publié sur Steam](https://store.steampowered.com/news/app/2146380/view/4529024222460953609)

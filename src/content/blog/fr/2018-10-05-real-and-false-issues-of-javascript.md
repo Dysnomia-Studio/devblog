@@ -5,7 +5,7 @@ tags: web quality javascript
 categories: web javascript
 pubDate: '2018-10-05'
 updatedDate: '2023-12-24'
-heroImage: '../../../assets/header.png'
+heroImage: '../../../assets/javascript-hero.png'
 ---
 
 Bonjour à tous !  

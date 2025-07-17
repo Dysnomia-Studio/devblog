@@ -3,6 +3,9 @@ layout: post
 title:  "1 an après: Chiffres à propos d'Alchemistry"
 tags: gamedev steam marketing alchemistry post-mortem
 categories: gamedev
+pubDate: '2023-05-20'
+updatedDate: '2023-12-24'
+heroImage: '../../../assets/alchemistry-hero.png'
 ---
 
 *Ce post a été orginalement écrit en anglais sur [Twitter](https://twitter.com/DysnomiaStudio/status/1655492420803371010) et [Mastodon](https://mastodon.gamedev.place/@Elanis/110332183413305320).*

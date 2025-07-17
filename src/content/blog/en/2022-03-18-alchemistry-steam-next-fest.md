@@ -3,6 +3,9 @@ layout: post
 title:  "How did steam Next Fest saved Alchemistry's marketing ?"
 tags: gamedev steam marketing alchemistry post-mortem
 categories: gamedev
+pubDate: '2022-03-18'
+updatedDate: '2023-12-24'
+heroImage: '../../../assets/alchemistry-hero.png'
 ---
 
 During February 2022, with [Alchemistry](https://store.steampowered.com/app/1730540/Alchemistry/) I participated for the first time in the [Steam Next Fest](https://store.steampowered.com/sale/nextfest), a Steam event that highlights hundred of demos from the game that will release in the following 6 months. I hoped to earn a few more wishlists, but I got far more than I expected. Here's a small article describing my journey during this crazy week.

@@ -3,6 +3,9 @@ layout: post
 title:  "Comment créer une catégorie Twitch pour votre jeu ?"
 tags: gamedev twitch
 categories: gamedev
+pubDate: '2023-09-10'
+updatedDate: '2023-12-24'
+heroImage: '../../../assets/default-header.png'
 ---
 
 **Vous êtes vous déjà demandé comment ajouter votre jeu en tant que catégorie Twitch ?**

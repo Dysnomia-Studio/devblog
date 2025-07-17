@@ -3,6 +3,9 @@ layout: post
 title:  "Post-mortem Extortion - Publishing my first game on Steam"
 tags: gamedev steam marketing extortion post-mortem
 categories: gamedev
+pubDate: '2021-08-28'
+updatedDate: '2023-12-24'
+heroImage: '../../../assets/extortion-hero.png'
 ---
 
 10 months ago, on October 30th, 2020, I published my first game on Steam "[Extortion](https://store.steampowered.com/app/1299430/Extortion/)", it's a game where you're playing a computer engineer who is being blackmailed and forced to hack some servers.

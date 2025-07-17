@@ -3,6 +3,8 @@ layout: post
 title:  "Manufactur'inc DevBlog #1 - Qui ? Quoi ? Où ? Quand ?"
 tags: gamedev steam devblog manufacturinc
 categories: gamedev
+pubDate: '2023-09-16'
+heroImage: '../../../assets/manufacturinc-hero.png'
 ---
 
 [Ce post a été originellement publié sur Steam](https://store.steampowered.com/news/app/2146380/view/7184986051960660929)

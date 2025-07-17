@@ -3,6 +3,9 @@ layout: post
 title:  "Comment installer la démo Steam d'un jeu ainsi que le jeu sur un même compte Steam ?"
 tags: gamedev steam
 categories: gamedev
+pubDate: '2022-04-09'
+updatedDate: '2023-12-24'
+heroImage: '../../../assets/default-header.png'
 ---
 
 ## Recuperez l'appId de votre démo

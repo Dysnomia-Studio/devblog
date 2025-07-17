@@ -3,6 +3,9 @@ layout: post
 title:  "Wholesome Games Celebration 2024 et Alchemistry"
 tags: gamedev steam marketing alchemistry post-mortem
 categories: gamedev
+pubDate: '2024-08-24'
+updatedDate: '2024-12-27'
+heroImage: '../../../assets/alchemistry-hero.png'
 ---
 
 *Ce billet est également disponible en tant que fil de discussion sur [Twitter](https://twitter.com/Elanis42/status/1827293891571179770), [Bluesky](https://bsky.app/profile/elanis.eu/post/3l2hi3vjp5z2i) et [Mastodon](https://mastodon.gamedev.place/@Elanis/113016548184573753).*

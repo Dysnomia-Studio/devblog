@@ -7,11 +7,10 @@ import { getCollection } from 'astro:content';
 import FormattedDate from '../components/FormattedDate.astro';
 import { Image } from 'astro:assets';
 import { getLangFromUrl } from '../i18n-utils.js'
-import defaultImg from '../assets/header.png'
 
 const lang = getLangFromUrl(Astro.url);
 const posts = (await getCollection('blog_' + lang)).sort(
-	(a, b) => b.data.pubDate?.valueOf() ?? new Date() - a.data.pubDate?.valueOf() ?? new Date(), // TODO: remove ??
+	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 ).map((p) => {
 	return {
 		...p,
@@ -103,7 +102,7 @@ const posts = (await getCollection('blog_' + lang)).sort(
 						posts.map((post) => (
 							<li>
 								<a href={`/blog/${post.id}/`}>
-										<Image width={720} height={360} src={post.data.heroImage ?? defaultImg} alt="" />
+										<Image width={720} height={360} src={post.data.heroImage} alt="" />
 									<h4 class="title">{post.data.title}</h4>
 									<p class="date">
 										<FormattedDate date={post.data.pubDate} />

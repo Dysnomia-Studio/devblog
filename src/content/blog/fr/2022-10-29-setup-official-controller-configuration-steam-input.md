@@ -3,6 +3,9 @@ layout: post
 title:  "Comment mettre en place une configration officielle de contrôleurs Steam Input ?"
 tags: gamedev steam
 categories: gamedev
+pubDate: '2022-10-29'
+updatedDate: '2023-12-24'
+heroImage: '../../../assets/default-header.png'
 ---
 
 C'est une problématique que j'ai recontré en mettant à jour [Alchemistry](https://store.steampowered.com/app/1730540/Alchemistry/) afin qu'il soit compatibile avec le Steam Deck et je n'ai pas trouvé [documentation](https://partner.steamgames.com/doc/features/steam_controller) très claire, notamment à cause du nombre varié de cas d'utilisations.

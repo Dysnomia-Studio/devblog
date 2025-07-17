@@ -3,6 +3,8 @@ layout: post
 title:  "Manufactur'inc DevBlog #5 - Your mission for this week, should you choose to accept it..."
 tags: gamedev steam devblog manufacturinc
 categories: gamedev
+pubDate: '2024-02-21'
+heroImage: '../../../assets/manufacturinc-hero.png'
 ---
 
 [This post was originally published on Steam](https://store.steampowered.com/news/app/2146380/view/4160833394874745089)
