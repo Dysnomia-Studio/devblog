@@ -1,12 +1,11 @@
 ---
 layout: post
 title:  "Real and false issues of javascript"
-description: "In this article, we will talk about a sensitive subject in many developers' communities: \"Why use or not use JavaScript ?\"."
 tags: web quality javascript
 categories: web javascript
 pubDate: '2018-10-05'
 updatedDate: '2023-12-24'
-heroImage: '../../assets/header.png'
+heroImage: '../../../assets/header.png'
 ---
 
 Hello!
