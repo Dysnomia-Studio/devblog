@@ -6,6 +6,7 @@ categories: gamedev
 pubDate: '2022-10-29'
 updatedDate: '2023-12-24'
 heroImage: '../../../assets/default-header.png'
+description: "Un petit tutoriel sur comment mettre en place une configuration officielle sur votre jeu en se basant sur une configuration faite par vous même, ou sur une configuration de la communauté."
 ---
 
 C'est une problématique que j'ai recontré en mettant à jour [Alchemistry](https://store.steampowered.com/app/1730540/Alchemistry/) afin qu'il soit compatibile avec le Steam Deck et je n'ai pas trouvé [documentation](https://partner.steamgames.com/doc/features/steam_controller) très claire, notamment à cause du nombre varié de cas d'utilisations.

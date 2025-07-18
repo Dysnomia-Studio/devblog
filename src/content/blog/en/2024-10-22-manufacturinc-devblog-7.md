@@ -5,6 +5,7 @@ tags: gamedev steam devblog manufacturinc
 categories: gamedev
 pubDate: '2024-10-22'
 heroImage: '../../../assets/manufacturinc-hero.png'
+description: "Let's share figures, talk about mental health and the game's future."
 ---
 
 [This post was originally published on Steam](https://store.steampowered.com/news/app/2146380/view/4529024222460953609)

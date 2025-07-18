@@ -6,6 +6,7 @@ categories: web javascript
 pubDate: '2018-10-05'
 updatedDate: '2023-12-24'
 heroImage: '../../../assets/javascript-hero.png'
+description: "Dans ce billet, nous allons parler d'un sujet très sensible dans les communautés de développeurs, \"Pourquoi faire ou ne pas faire du JavaScript ?\"."
 ---
 
 Bonjour à tous !  

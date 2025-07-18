@@ -6,6 +6,7 @@ categories: gamedev
 pubDate: '2023-05-20'
 updatedDate: '2023-12-24'
 heroImage: '../../../assets/alchemistry-hero.png'
+description: "Il y a un an et 2 mois (le 7 mars 2022), Alchemistry est sorti sur Steam. Maintenant que j'ai les chiffres précis jusqu'a Mars 2023 inclus, je peux faire un résumé complet de cette première année !"
 ---
 
 *Ce post a été orginalement écrit en anglais sur [Twitter](https://twitter.com/DysnomiaStudio/status/1655492420803371010) et [Mastodon](https://mastodon.gamedev.place/@Elanis/110332183413305320).*

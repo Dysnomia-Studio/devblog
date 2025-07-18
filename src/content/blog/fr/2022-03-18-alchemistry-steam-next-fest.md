@@ -6,6 +6,7 @@ categories: gamedev
 pubDate: '2022-03-18'
 updatedDate: '2023-12-24'
 heroImage: '../../../assets/alchemistry-hero.png'
+description: "Au cours du mois de février 2022, avec Alchemistry j'ai participé pour la première fois à la Steam Next Fest. Voici donc un petit article pour parler de cette aventure."
 ---
 
 Au cours du mois de février 2022, avec [Alchemistry](https://store.steampowered.com/app/1730540/Alchemistry/) j'ai participé pour la première fois à la [Steam Next Fest](https://store.steampowered.com/sale/nextfest), un evenement Steam ayant pour but de mettre en avant des centaines de démos venant de jeux devant sortir dans les 6 mois qui suivent. J'esperais gagner quelques listes de souhaits, mais j'ai gagné beaucoup plus que cela. Voici donc un petit article pour parler de cette aventure.

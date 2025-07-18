@@ -6,6 +6,7 @@ categories: gamedev
 pubDate: '2021-08-28'
 updatedDate: '2023-12-24'
 heroImage: '../../../assets/extortion-hero.png'
+description: "Il y a maintenant 10 mois, le 30 octobre 2020, sortait mon premier jeu sur Steam. Cet article est un petit retour d'experience de la préparation à la mise en ligne du jeu, de celle-ci, des mois suivants."
 ---
 
 Il y a maintenant 10 mois, le 30 octobre 2020 sortait mon premier jeu sur Steam "[Extortion](https://store.steampowered.com/app/1299430/Extortion/)", il s'agit d'un jeu où vous incarnez un ingénieur en informatique qui subit un chantage et se retrouve obligé de devoir s'inflitrer dans plusieurs serveurs.

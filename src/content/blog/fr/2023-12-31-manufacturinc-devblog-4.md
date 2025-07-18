@@ -5,6 +5,7 @@ tags: gamedev steam devblog manufacturinc
 categories: gamedev
 pubDate: '2023-12-31'
 heroImage: '../../../assets/manufacturinc-hero.png'
+description: "Aujourd'hui, nous parlerons de comment les festivités de la vie réelle vont affecter les événements en jeu."
 ---
 
 [Ce post a été originellement publié sur Steam](https://store.steampowered.com/news/app/2146380/view/3883856311496283654)

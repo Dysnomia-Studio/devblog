@@ -5,6 +5,7 @@ tags: gamedev steam devblog manufacturinc
 categories: gamedev
 pubDate: '2024-12-10'
 heroImage: '../../../assets/manufacturinc-hero.png'
+description: "Let's talk about what my November looked like and what are the next steps for the game."
 ---
 
 [This post was originally published on Steam](https://store.steampowered.com/news/app/2146380/view/519699278946371779)

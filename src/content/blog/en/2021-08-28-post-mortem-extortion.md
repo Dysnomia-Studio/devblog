@@ -6,6 +6,7 @@ categories: gamedev
 pubDate: '2021-08-28'
 updatedDate: '2023-12-24'
 heroImage: '../../../assets/extortion-hero.png'
+description: '10 months ago, on October 30th, 2020, I published my first game on Steam. This is small article is about every step from preparation to publishing of my game, and the following months.'
 ---
 
 10 months ago, on October 30th, 2020, I published my first game on Steam "[Extortion](https://store.steampowered.com/app/1299430/Extortion/)", it's a game where you're playing a computer engineer who is being blackmailed and forced to hack some servers.

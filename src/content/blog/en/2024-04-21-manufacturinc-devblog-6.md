@@ -5,6 +5,7 @@ tags: gamedev steam devblog manufacturinc
 categories: gamedev
 pubDate: '2024-04-21'
 heroImage: '../../../assets/manufacturinc-hero.png'
+description: "Today we will talk about the administrative tool I am building behind the scenes."
 ---
 
 [This post was originally published on Steam](https://store.steampowered.com/news/app/2146380/view/4194615462179930723)

@@ -5,6 +5,7 @@ tags: gamedev steam devblog manufacturinc
 categories: gamedev
 pubDate: '2023-10-18'
 heroImage: '../../../assets/manufacturinc-hero.png'
+description: "Let's talk about automation, but behind the scenes."
 ---
 
 [This post was originally published on Steam](https://store.steampowered.com/news/app/2146380/view/3737483611565199154)

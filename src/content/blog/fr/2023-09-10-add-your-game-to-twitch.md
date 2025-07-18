@@ -6,6 +6,7 @@ categories: gamedev
 pubDate: '2023-09-10'
 updatedDate: '2023-12-24'
 heroImage: '../../../assets/default-header.png'
+description: "Vous êtes vous déjà demandé comment ajouter votre jeu en tant que catégorie Twitch ?\nCet article est ici pour vous y guider !"
 ---
 
 **Vous êtes vous déjà demandé comment ajouter votre jeu en tant que catégorie Twitch ?**
