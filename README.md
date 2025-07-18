@@ -1,3 +1,6 @@
+[![Reliability Rating](https://sonar.dysnomia.studio/api/project_badges/measure?project=devblog&metric=reliability_rating)](https://sonar.dysnomia.studio/dashboard?id=devblog) [![Maintainability Rating](https://sonar.dysnomia.studio/api/project_badges/measure?project=devblog&metric=sqale_rating)](https://sonar.dysnomia.studio/dashboard?id=devblog) [![Security Rating](https://sonar.dysnomia.studio/api/project_badges/measure?project=devblog&metric=security_rating)](https://sonar.dysnomia.studio/dashboard?id=devblog)  
+[![Duplicated Lines (%)](https://sonar.dysnomia.studio/api/project_badges/measure?project=devblog&metric=duplicated_lines_density)](https://sonar.dysnomia.studio/dashboard?id=devblog) [![Coverage](https://sonar.dysnomia.studio/api/project_badges/measure?project=devblog&metric=coverage)](https://sonar.dysnomia.studio/dashboard?id=devblog)
+
 # Dysnomia's Blog
 
 The repository for [Dysnomia's blog at https://blog.dysnomia.studio](https://blog.dysnomia.studio).
