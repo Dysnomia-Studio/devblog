@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Manufactur'inc DevBlog #2 - Automation isn't just about gameplay"
-tags: gamedev steam devblog manufacturinc
+tags: blogpost gamedev steam devblog manufacturinc
 categories: gamedev
 pubDate: '2023-10-18'
 heroImage: '../../../assets/manufacturinc-hero.png'

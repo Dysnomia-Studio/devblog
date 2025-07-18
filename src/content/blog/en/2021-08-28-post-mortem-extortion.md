@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Post-mortem Extortion - Publishing my first game on Steam"
-tags: gamedev steam marketing extortion post-mortem
+tags: blogpost gamedev steam marketing extortion post-mortem
 categories: gamedev
 pubDate: '2021-08-28'
 updatedDate: '2023-12-24'

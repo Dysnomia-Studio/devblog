@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Comment créer une catégorie Twitch pour votre jeu ?"
-tags: gamedev twitch
+tags: blogpost gamedev twitch
 categories: gamedev
 pubDate: '2023-09-10'
 updatedDate: '2023-12-24'

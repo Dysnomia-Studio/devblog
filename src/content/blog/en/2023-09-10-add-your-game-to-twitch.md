@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to add your game to Twitch categories ?"
-tags: gamedev twitch
+tags: blogpost gamedev twitch
 categories: gamedev
 pubDate: '2023-09-10'
 updatedDate: '2023-12-24'

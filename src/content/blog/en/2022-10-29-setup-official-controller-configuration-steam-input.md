@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to setup official controller configration with Steam Input ?"
-tags: gamedev steam
+tags: blogpost gamedev steam
 categories: gamedev
 pubDate: '2022-10-29'
 updatedDate: '2023-12-24'

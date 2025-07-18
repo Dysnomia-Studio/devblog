@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Manufactur'inc DevBlog #6 - L'équilibrage et la création des contenu du jeu"
-tags: gamedev steam devblog manufacturinc
+tags: blogpost gamedev steam devblog manufacturinc
 categories: gamedev
 pubDate: '2024-04-21'
 heroImage: '../../../assets/manufacturinc-hero.png'

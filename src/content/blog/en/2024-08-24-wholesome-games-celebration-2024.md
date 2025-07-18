@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Wholesome Games Celebration 2024 with Alchemistry"
-tags: gamedev steam marketing alchemistry post-mortem
+tags: blogpost gamedev steam marketing alchemistry post-mortem
 categories: gamedev
 pubDate: '2024-08-24'
 updatedDate: '2024-12-27'

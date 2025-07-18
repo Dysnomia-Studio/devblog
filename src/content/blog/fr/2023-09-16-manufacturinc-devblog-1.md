@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Manufactur'inc DevBlog #1 - Qui ? Quoi ? Où ? Quand ?"
-tags: gamedev steam devblog manufacturinc
+tags: blogpost gamedev steam devblog manufacturinc
 categories: gamedev
 pubDate: '2023-09-16'
 heroImage: '../../../assets/manufacturinc-hero.png'

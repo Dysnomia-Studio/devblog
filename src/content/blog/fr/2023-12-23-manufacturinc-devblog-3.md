@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Manufactur'inc DevBlog #3 - La logistique"
-tags: gamedev steam devblog manufacturinc
+tags: blogpost gamedev steam devblog manufacturinc
 categories: gamedev
 pubDate: '2023-12-23'
 heroImage: '../../../assets/manufacturinc-hero.png'

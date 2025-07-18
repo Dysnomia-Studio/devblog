@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to install steam demo along with original game on the same Steam Account ?"
-tags: gamedev steam
+tags: blogpost gamedev steam
 categories: gamedev
 pubDate: '2022-04-09'
 updatedDate: '2023-12-24'

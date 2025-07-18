@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "1 an après: Chiffres à propos d'Alchemistry"
-tags: gamedev steam marketing alchemistry post-mortem
+tags: blogpost gamedev steam marketing alchemistry post-mortem
 categories: gamedev
 pubDate: '2023-05-20'
 updatedDate: '2023-12-24'

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Comment mettre en place une configration officielle de contrôleurs Steam Input ?"
-tags: gamedev steam
+tags: blogpost gamedev steam
 categories: gamedev
 pubDate: '2022-10-29'
 updatedDate: '2023-12-24'

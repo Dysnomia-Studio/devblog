@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Manufactur'inc DevBlog #5 - Your mission for this week, should you choose to accept it..."
-tags: gamedev steam devblog manufacturinc
+tags: blogpost gamedev steam devblog manufacturinc
 categories: gamedev
 pubDate: '2024-02-21'
 heroImage: '../../../assets/manufacturinc-hero.png'

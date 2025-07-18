@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Programmers Sale 2023 et Extortion"
-tags: gamedev steam marketing extortion post-mortem
+tags: blogpost gamedev steam marketing extortion post-mortem
 categories: gamedev
 pubDate: '2023-10-11'
 updatedDate: '2024-12-27'

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How did steam Next Fest saved Alchemistry's marketing ?"
-tags: gamedev steam marketing alchemistry post-mortem
+tags: blogpost gamedev steam marketing alchemistry post-mortem
 categories: gamedev
 pubDate: '2022-03-18'
 updatedDate: '2023-12-24'

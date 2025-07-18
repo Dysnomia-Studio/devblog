@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Real and false issues of javascript"
-tags: web quality javascript
+tags: blogpost web quality javascript
 categories: web javascript
 pubDate: '2018-10-05'
 updatedDate: '2023-12-24'
