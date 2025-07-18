@@ -14,7 +14,7 @@ heroImage: '../../../assets/manufacturinc-hero.png'
 2. [10/2023 - #2 - L'automatisation ne concerne pas seulement le gameplay](https://store.steampowered.com/news/app/2146380/view/3737483611565199154)
 3. [12/2023 - #3 - La logistique](https://store.steampowered.com/news/app/2146380/view/3883856311467351828)
 4. [12/2023 - #4 - Evenements et festivités](https://store.steampowered.com/news/app/2146380/view/3883856311496283654)
-5. [02/2024 - #5 - Votre mission si toutefois vous l'acceptez...[](https://store.steampowered.com/news/app/2146380/view/4160833394874745089)
+5. [02/2024 - #5 - Votre mission si toutefois vous l'acceptez...](https://store.steampowered.com/news/app/2146380/view/4160833394874745089)
 6. [04/2024 - #6 - L'équilibrage et la création des contenu du jeu](https://store.steampowered.com/news/app/2146380/view/4194615462179930723)
 7. [10/2024 - #7 - Leçons tirées de la Steam Next Fest](https://store.steampowered.com/news/app/2146380/view/4529024222460953609)
 8. **12/2024 - #8 - Résumé mensuel de novembre et le futur de Manufactur'inc**  (Ici!)
