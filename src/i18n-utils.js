@@ -1,4 +1,4 @@
-import { defaultLang, languageList, translations } from './consts';
+import { defaultLang, languageList } from './consts';
 
 export function getLangFromUrl(url) {
 	const [, lang, lang2] = url.pathname.split('/');
@@ -9,21 +9,6 @@ export function getLangFromUrl(url) {
 		return lang2;
 	}
 	return defaultLang;
-}
-
-export function useTranslations(lang) {
-	return function t(key) {
-		const [gameName, type, tKey] = key.split(':');
-
-		console.log([gameName, type, tKey]);
-
-		const localizedText = translations[gameName][type][lang][tKey];
-		if (localizedText && localizedText !== '?') {
-			return localizedText;
-		}
-
-		return translations[gameName][type][defaultLang][tKey];
-	}
 }
 
 export function useTranslatedPath(lang) {
