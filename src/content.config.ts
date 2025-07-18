@@ -11,15 +11,14 @@ const schemaTransfromFn = ({ image }: { image: any }) => z.object({
 	tags: z.string().transform(x => x.split(' ')),
 });
 
-const blog_en = defineCollection({
-	loader: glob({ base: './src/content/blog/en', pattern: '**/*.{md,mdx}' }),
-	schema: schemaTransfromFn,
-});
+function defineCollectionByLang(lang: string) {
+	return defineCollection({
+		loader: glob({ base: `./src/content/blog/${lang}`, pattern: '**/*.{md,mdx}' }),
+		schema: schemaTransfromFn,
+	});
+}
 
-const blog_fr = defineCollection({
-	loader: glob({ base: './src/content/blog/fr', pattern: '**/*.{md,mdx}' }),
-	schema: schemaTransfromFn,
-});
-
+const blog_en = defineCollectionByLang('en');
+const blog_fr = defineCollectionByLang('fr');
 
 export const collections = { blog_en, blog_fr };
