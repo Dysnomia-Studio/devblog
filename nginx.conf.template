@@ -51,6 +51,9 @@ http {
       # Application
       root /usr/share/nginx/html;
       index index.html;
+
+      # Redirect 404 to index
+      error_page 404 /index.html;
     }
 
     #include /etc/nginx/conf.d/*.conf;
