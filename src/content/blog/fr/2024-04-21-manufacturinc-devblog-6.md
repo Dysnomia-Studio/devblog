@@ -6,9 +6,8 @@ categories: gamedev
 pubDate: '2024-04-21'
 heroImage: '../../../assets/manufacturinc-hero.png'
 description: "Aujourd'hui, nous allons parler de l'outil administratif que je suis en train de développer en coulisses."
+ogSteamUrl: "https://store.steampowered.com/news/app/2146380/view/4194615462179930723"
 ---
-
-[Ce post a été originellement publié sur Steam](https://store.steampowered.com/news/app/2146380/view/4194615462179930723)
 
 **Historique du Devblog**
 1. [09/2023 - #1 - Qui ? Quoi ? Où ? Quand ?](https://store.steampowered.com/news/app/2146380/view/7184986051960660929)

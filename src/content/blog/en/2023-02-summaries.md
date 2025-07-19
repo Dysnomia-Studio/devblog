@@ -6,6 +6,7 @@ categories: monthly-summary
 pubDate: '2023-03-05'
 heroImage: '../../../assets/default-header.png'
 ogMastodonUrl: https://mastodon.gamedev.place/deck/@Elanis/109971014538977292
+ogTwitterUrl: "deleted"
 ---
 We are back with a monthly summary ! Here's what I've done during February:
 

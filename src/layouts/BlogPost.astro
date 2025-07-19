@@ -9,12 +9,10 @@ import { getLangFromUrl } from '../i18n-utils.js'
 
 const lang = getLangFromUrl(Astro.url);
 
-console.log(lang);
-
 type Props = CollectionEntry<'blog'>['data'];
 
 const { slug } = Astro.params;
-const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, ogBlueskyUrl, ogMastodonUrl, ogSteamUrl, ogTwitterUrl } = Astro.props;
 ---
 
 <html lang={lang}>
@@ -91,6 +89,13 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 						<h1>{title}</h1>
 						<hr />
 					</div>
+					{(ogBlueskyUrl || ogMastodonUrl || ogSteamUrl || ogTwitterUrl) && <div>
+						<b>
+							{lang === 'en' && <span>This post was originally published on</span>}
+							{lang === 'fr' && <span>Ce post a été originellement publié sur</span>}
+							{ogMastodonUrl && <a href={ogMastodonUrl}>Mastodon</a>}{ogMastodonUrl && ogTwitterUrl && <span>,</span>} {ogTwitterUrl && <span>Twitter</span>}{(ogMastodonUrl || ogTwitterUrl) && ogBlueskyUrl && <span>,</span>} {ogBlueskyUrl && <a href={ogBlueskyUrl}>Bluesky</a>}{(ogBlueskyUrl || ogMastodonUrl || ogTwitterUrl) && ogSteamUrl && <span>,</span>}{ogSteamUrl && <a href={ogSteamUrl}>Steam</a>}.
+						</b>
+					</div>}
 					<slot />
 				</div>
 			</article>

@@ -13,7 +13,7 @@ It's a thing that I had to do while updating [Alchemistry](https://store.steampo
 
 So here we are, here's a small tutorial on how to set up an official controller configuration based on your or a community-created one.
 
-# Create your configuration (Steam Deck or Big Picture version)
+### Create your configuration (Steam Deck or Big Picture version)
 
 To access controller configuration, click this icon:
 ![](/assets/img/2022-10-29-deck-edit-config-1.webp)
@@ -33,12 +33,12 @@ Finally, share the configuration with the community:
 Now, everyone can use your configuration. If you want to easily share the workshop link (which will be useful for future configuration), you can access it using the **Layout Details** option.
 ![](/assets/img/2022-10-29-deck-edit-config-link.webp)
 
-# Create your configuration (Steam Desktop version)
+### Create your configuration (Steam Desktop version)
 
 You can follow the same steps to create a configuration using a Steam desktop, to access configuration, open overlay, and click on "Controller configuration".
 ![](/assets/img/2022-10-29_steam-desktop-overlay.webp)
 
-# Set your configuration as the official configuration
+### Set your configuration as the official configuration
 
 Go to your **Steamworks Partner** account, then to **App Admin**, then to **Application > Steam Input**. Select your configuration type as "Custom Configuration (Hosted on Workshop)".
 

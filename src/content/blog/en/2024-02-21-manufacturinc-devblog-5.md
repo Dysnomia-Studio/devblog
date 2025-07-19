@@ -6,9 +6,8 @@ categories: gamedev
 pubDate: '2024-02-21'
 heroImage: '../../../assets/manufacturinc-hero.png'
 description: "... is to fill this contract and earn lots of great rewards!\nLet's talk about in-game contracts (=quests), how important they are, how often will you see them, and every detail about them!"
+ogSteamUrl: "https://store.steampowered.com/news/app/2146380/view/4160833394874745089"
 ---
-
-[This post was originally published on Steam](https://store.steampowered.com/news/app/2146380/view/4160833394874745089)
 
 **Devblog history**
 1. [09/2023 - #1 - Who? What? Where? When?](https://store.steampowered.com/news/app/2146380/view/7184986051960660929)

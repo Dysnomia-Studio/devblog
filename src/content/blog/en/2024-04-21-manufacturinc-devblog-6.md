@@ -6,9 +6,8 @@ categories: gamedev
 pubDate: '2024-04-21'
 heroImage: '../../../assets/manufacturinc-hero.png'
 description: "Today we will talk about the administrative tool I am building behind the scenes."
+ogSteamUrl: "https://store.steampowered.com/news/app/2146380/view/4194615462179930723"
 ---
-
-[This post was originally published on Steam](https://store.steampowered.com/news/app/2146380/view/4194615462179930723)
 
 **Devblog history**
 1. [09/2023 - #1 - Who? What? Where? When?](https://store.steampowered.com/news/app/2146380/view/7184986051960660929)

@@ -6,9 +6,8 @@ categories: gamedev
 pubDate: '2023-09-16'
 heroImage: '../../../assets/manufacturinc-hero.png'
 description: "Let's talk about the game in this first devblog entry !"
+ogSteamUrl: "https://store.steampowered.com/news/app/2146380/view/7184986051960660929"
 ---
-
-[This post was originally published on Steam](https://store.steampowered.com/news/app/2146380/view/7184986051960660929)
 
 **Devblog history**
 1.  **09/2023 - #1 - Who? What? Where? When?** (Here !)

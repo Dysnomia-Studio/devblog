@@ -7,9 +7,10 @@ pubDate: '2023-10-11'
 updatedDate: '2024-12-27'
 heroImage: '../../../assets/extortion-hero.png'
 description: "Durant une semaine, j'ai participé à la Programmer's sale de [@luden_io](https://luden.io) avec mon jeu Extortion. Et je n'étais pas du tout préparé à ces résultats assez fous !"
+ogBlueskyUrl: "https://bsky.app/profile/elanis.eu/post/3kbiia2tjzl2o"
+ogMastodonUrl: "https://mastodon.gamedev.place/@Elanis/111217403511029788"
+ogTwitterUrl: "https://twitter.com/Elanis42/status/1712146551038980376"
 ---
-
-*Ce billet est également disponible en tant que thread sur [Twitter](https://twitter.com/Elanis42/status/1712146551038980376), [Bluesky](https://bsky.app/profile/elanis.eu/post/3kbiia2tjzl2o) et [Mastodon](https://mastodon.gamedev.place/@Elanis/111217403511029788).*
 
 🧵 Durant une semaine, j'ai participé à la Programmer's sale de [@luden_io](https://luden.io) avec mon jeu Extortion.  
 Et je n'étais pas du tout préparé à ces résultats assez fous !  

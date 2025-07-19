@@ -6,9 +6,8 @@ categories: gamedev
 pubDate: '2023-10-18'
 heroImage: '../../../assets/manufacturinc-hero.png'
 description: "Let's talk about automation, but behind the scenes."
+ogSteamUrl: "https://store.steampowered.com/news/app/2146380/view/3737483611565199154"
 ---
-
-[This post was originally published on Steam](https://store.steampowered.com/news/app/2146380/view/3737483611565199154)
 
 **Devblog history**
 1.  [09/2023 - #1 - Who? What? Where? When?](https://store.steampowered.com/news/app/2146380/view/7184986051960660929)

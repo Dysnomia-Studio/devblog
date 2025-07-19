@@ -6,9 +6,8 @@ categories: gamedev
 pubDate: '2023-12-23'
 heroImage: '../../../assets/manufacturinc-hero.png'
 description: "The subject of this third DevBlog is a cornerstone of the gameplay: resources management."
+ogSteamUrl: "https://store.steampowered.com/news/app/2146380/view/3883856311467351828"
 ---
-
-[This post was originally published on Steam](https://store.steampowered.com/news/app/2146380/view/3883856311467351828)
 
 **Devblog history**
 1. [09/2023 - #1 - Who? What? Where? When?](https://store.steampowered.com/news/app/2146380/view/7184986051960660929)

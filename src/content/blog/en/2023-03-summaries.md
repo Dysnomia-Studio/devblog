@@ -6,6 +6,7 @@ categories: monthly-summary
 pubDate: '2023-04-02'
 heroImage: '../../../assets/default-header.png'
 ogMastodonUrl: https://mastodon.gamedev.place/deck/@Elanis/110129139522011534
+ogTwitterUrl: "deleted"
 ---
 It's monthly #summary time ! March was a light month, but still, here's what I did:
 

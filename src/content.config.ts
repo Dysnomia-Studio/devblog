@@ -9,6 +9,10 @@ const schemaTransfromFn = ({ image }: { image: any }) => z.object({
 	heroImage: image().optional(),
 	categories: z.string().transform(x => x.split(' ')),
 	tags: z.string().transform(x => x.split(' ')),
+	ogBlueskyUrl: z.string().optional(),
+	ogMastodonUrl: z.string().optional(),
+	ogTwitterUrl: z.string().optional(),
+	ogSteamUrl: z.string().optional(),
 });
 
 function defineCollectionByLang(lang: string) {

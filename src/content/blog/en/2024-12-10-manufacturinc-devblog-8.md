@@ -6,9 +6,8 @@ categories: gamedev
 pubDate: '2024-12-10'
 heroImage: '../../../assets/manufacturinc-hero.png'
 description: "Let's talk about what my November looked like and what are the next steps for the game."
+ogSteamUrl: "https://store.steampowered.com/news/app/2146380/view/519699278946371779"
 ---
-
-[This post was originally published on Steam](https://store.steampowered.com/news/app/2146380/view/519699278946371779)
 
 **Devblog history**
 1. [09/2023 - #1 - Who? What? Where? When?](https://store.steampowered.com/news/app/2146380/view/7184986051960660929)

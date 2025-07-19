@@ -7,9 +7,10 @@ pubDate: '2024-08-24'
 updatedDate: '2024-12-27'
 heroImage: '../../../assets/alchemistry-hero.png'
 description: "A week ago, I participated in the Wholesome Games Celebration on Steam with Alchemistry, which was huge for me in terms of numbers!"
+ogBlueskyUrl: "https://bsky.app/profile/elanis.eu/post/3l2hi3vjp5z2i"
+ogMastodonUrl: "https://mastodon.gamedev.place/@Elanis/113016548184573753"
+ogTwitterUrl: "https://twitter.com/Elanis42/status/1827293891571179770"
 ---
-
-*This post is also available as a thread on [Twitter](https://twitter.com/Elanis42/status/1827293891571179770), [Bluesky](https://bsky.app/profile/elanis.eu/post/3l2hi3vjp5z2i) and [Mastodon](https://mastodon.gamedev.place/@Elanis/113016548184573753).*
 
 A week ago, I participated in the Wholesome Games Celebration on Steam with Alchemistry, which was huge for me in terms of numbers!
 

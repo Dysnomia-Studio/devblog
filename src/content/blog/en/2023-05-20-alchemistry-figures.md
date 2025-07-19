@@ -7,9 +7,9 @@ pubDate: '2023-05-20'
 updatedDate: '2023-12-24'
 heroImage: '../../../assets/alchemistry-hero.png'
 description: "1 year and two months ago (March 7th, 2022), Alchemistry released on Steam. Now that I precisely have the figures up to March 2023, I'm going to do a summary of that first year or so."
+ogTwitterUrl: "https://twitter.com/DysnomiaStudio/status/1655492420803371010"
+ogMastodonUrl: "https://mastodon.gamedev.place/@Elanis/110332183413305320"
 ---
-
-*This post was initialy written on [Twitter](https://twitter.com/DysnomiaStudio/status/1655492420803371010) and [Mastodon](https://mastodon.gamedev.place/@Elanis/110332183413305320) as a thread.*
 
 1 year and two months ago (March 7th, 2022), [Alchemistry](https://store.steampowered.com/app/1730540/Alchemistry/) released on Steam. Now that I precisely have the figures up to March 2023, I'm going to do a summary of that first year or so.
 

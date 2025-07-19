@@ -6,9 +6,8 @@ categories: gamedev
 pubDate: '2023-12-31'
 heroImage: '../../../assets/manufacturinc-hero.png'
 description: "Aujourd'hui, nous parlerons de comment les festivités de la vie réelle vont affecter les événements en jeu."
+ogSteamUrl: "https://store.steampowered.com/news/app/2146380/view/3883856311496283654"
 ---
-
-[Ce post a été originellement publié sur Steam](https://store.steampowered.com/news/app/2146380/view/3883856311496283654)
 
 **Historique du Devblog**
 1. [09/2023 - #1 - Qui ? Quoi ? Où ? Quand ?](https://store.steampowered.com/news/app/2146380/view/7184986051960660929)

@@ -7,9 +7,10 @@ pubDate: '2023-10-11'
 updatedDate: '2024-12-27'
 heroImage: '../../../assets/extortion-hero.png'
 description: "A week ago, I started to participate to luden_io's Programmer's sale with my game Extortion. And I wasn't ready for these amazingly good results at all!"
+ogBlueskyUrl: "https://bsky.app/profile/elanis.eu/post/3kbiia2tjzl2o"
+ogMastodonUrl: "https://mastodon.gamedev.place/@Elanis/111217403511029788"
+ogTwitterUrl: "https://twitter.com/Elanis42/status/1712146551038980376"
 ---
-
-*This post is also available as a thread on [Twitter](https://twitter.com/Elanis42/status/1712146551038980376), [Bluesky](https://bsky.app/profile/elanis.eu/post/3kbiia2tjzl2o) and [Mastodon](https://mastodon.gamedev.place/@Elanis/111217403511029788).*
 
 🧵 A week ago, I started to participate to [@luden_io](https://luden.io)'s Programmer's sale with my game Extortion  
 And I wasn't ready for these amazingly good results at all!  

@@ -6,9 +6,8 @@ categories: gamedev
 pubDate: '2024-12-10'
 heroImage: '../../../assets/manufacturinc-hero.png'
 description: "Parlons de ce à quoi ressemblait mon mois de novembre ainsi que des prochaines étapes pour Manufactur'inc"
+ogSteamUrl: "https://store.steampowered.com/news/app/2146380/view/519699278946371779"
 ---
-
-[Ce post a été originellement publié sur Steam](https://store.steampowered.com/news/app/2146380/view/4529024222460953609)
 
 **Historique du Devblog**
 1. [09/2023 - #1 - Qui ? Quoi ? Où ? Quand ?](https://store.steampowered.com/news/app/2146380/view/7184986051960660929)

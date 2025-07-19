@@ -6,9 +6,8 @@ categories: gamedev
 pubDate: '2024-10-22'
 heroImage: '../../../assets/manufacturinc-hero.png'
 description: "Partageons des chiffres, parlons de santé mentale et de l'avenir du jeu."
+ogSteamUrl: "https://store.steampowered.com/news/app/2146380/view/4529024222460953609"
 ---
-
-[Ce post a été originellement publié sur Steam](https://store.steampowered.com/news/app/2146380/view/4529024222460953609)
 
 **Historique du Devblog**
 1. [09/2023 - #1 - Qui ? Quoi ? Où ? Quand ?](https://store.steampowered.com/news/app/2146380/view/7184986051960660929)

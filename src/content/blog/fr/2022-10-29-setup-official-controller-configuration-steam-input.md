@@ -13,7 +13,7 @@ C'est une problématique que j'ai recontré en mettant à jour [Alchemistry](htt
 
 Donc, nous voici avec un petit tutoriel sur comment mettre en place une configuration officielle sur votre jeu en se basant sur une configuration faite par vous même, ou sur une configuration de la communauté.
 
-# Crééz votre configuration (Steam Deck ou Big Picture)
+### Crééz votre configuration (Steam Deck ou Big Picture)
 
 Pour accéder aux paramètres de manettes, cliquez sur cette icone:
 ![](/assets/img/2022-10-29-deck-edit-config-1.webp)
@@ -33,12 +33,12 @@ Enfin, vous pouvez partager votre configuration avec la communauté:
 Maintenant que la configuration est publique, chacun peut l'utiliser, et si vous souhaitez la partager facilement, vous pouvez le faire via le lien workshop accessible via l'option "Détails".
 ![](/assets/img/2022-10-29-deck-edit-config-link.webp)
 
-# Crééz votre configuration (version PC)
+### Crééz votre configuration (version PC)
 
 Les étapes sont très semblables à la version Steam Deck. Pour accéder au configurateur, ouvrez l'overlay Steam en jeu, et cliquez sur "Controller configuration".
 ![](/assets/img/2022-10-29_steam-desktop-overlay.webp)
 
-# Publier la configuration officielle
+### Publier la configuration officielle
 
 Allez sur votre compte **Partenaires Steamworks**, puis dans **App Admin**, et enfin dans **Application > Steam Input**. Selectionnez votre type de configuration pour qu'il soit "Custom Configuration (Hosted on Workshop)".
 

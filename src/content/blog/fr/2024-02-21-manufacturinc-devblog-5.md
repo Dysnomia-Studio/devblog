@@ -6,9 +6,8 @@ categories: gamedev
 pubDate: '2024-02-21'
 heroImage: '../../../assets/manufacturinc-hero.png'
 description: "...est de remplir ce contrat et de récupérer plein de récompenses sympas!\nParlons des contrats en jeu (=quêtes), de leur importance, de leur fréquence et de tous les détails qui s'y rapportent !"
+ogSteamUrl: "https://store.steampowered.com/news/app/2146380/view/4160833394874745089"
 ---
-
-[Ce post a été originellement publié sur Steam](https://store.steampowered.com/news/app/2146380/view/4160833394874745089)
 
 **Historique du Devblog**
 1. [09/2023 - #1 - Qui ? Quoi ? Où ? Quand ?](https://store.steampowered.com/news/app/2146380/view/7184986051960660929)
