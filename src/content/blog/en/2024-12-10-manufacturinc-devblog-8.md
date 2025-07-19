@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Manufactur'inc DevBlog #8 - November summary and Manufactur'inc future"
-tags: blogpost gamedev steam devblog manufacturinc
+tags: blogpost gamedev steam devblog manufacturinc monthly-summary
 categories: gamedev
 pubDate: '2024-12-10'
 heroImage: '../../../assets/manufacturinc-hero.png'
