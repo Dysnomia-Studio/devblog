@@ -6,5 +6,6 @@ categories: monthly-summary
 pubDate: '2023-04-02'
 heroImage: '../../../assets/default-header.png'
 ogMastodonUrl: https://mastodon.gamedev.place/deck/@Elanis/110129139522011534
+ogTwitterUrl: "deleted"
 ---
 <b>Aucune version française existante</b>

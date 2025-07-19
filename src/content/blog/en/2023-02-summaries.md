@@ -51,4 +51,4 @@ Housekeeping:
 Do you want to follow my day-to-day projects or other months summaries ?
 You can follow this account, or join my discord server here: https://discord.gg/c8aARey
 
-And here's january summary: https://blog.dysnomia.studio/blog/en/202301-summaries/
+And here's january summary: https://blog.dysnomia.studio/blog/en/2023-01-summaries/

@@ -60,4 +60,4 @@ And this is it for March !
 Do you want to follow my day-to-day projects or other months' summaries ?
 You can follow this account, or join my discord server here: https://discord.gg/c8aARey
 
-And here's february summary: https://blog.dysnomia.studio/blog/en/202302-summaries/
+And here's february summary: https://blog.dysnomia.studio/blog/en/2023-02-summaries/
