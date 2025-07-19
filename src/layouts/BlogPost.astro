@@ -97,7 +97,7 @@ const { title, description, pubDate, updatedDate, heroImage, ogBlueskyUrl, ogMas
 						<b>
 							{lang === 'en' && <span>This post was originally published on</span>}
 							{lang === 'fr' && <span>Ce post a été originellement publié sur</span>}
-							{ogMastodonUrl && <a href={ogMastodonUrl}>Mastodon</a>}{ogMastodonUrl && ogTwitterUrl && <span>,</span>} {ogTwitterUrl && <span>Twitter</span>}{(ogMastodonUrl || ogTwitterUrl) && ogBlueskyUrl && <span>,</span>} {ogBlueskyUrl && <a href={ogBlueskyUrl}>Bluesky</a>}{(ogBlueskyUrl || ogMastodonUrl || ogTwitterUrl) && ogSteamUrl && <span>,</span>}{ogSteamUrl && <a href={ogSteamUrl}>Steam</a>}.
+							{ogMastodonUrl && <a href={ogMastodonUrl}>Mastodon</a>}{ogMastodonUrl && ogTwitterUrl && <span>, </span>}{ogTwitterUrl && <span>Twitter</span>}{(ogMastodonUrl || ogTwitterUrl) && ogBlueskyUrl && <span>, </span>}{ogBlueskyUrl && <a href={ogBlueskyUrl}>Bluesky</a>}{(ogBlueskyUrl || ogMastodonUrl || ogTwitterUrl) && ogSteamUrl && <span>, </span>}{ogSteamUrl && <a href={ogSteamUrl}>Steam</a>}.
 						</b>
 					</div>}
 					<slot />
