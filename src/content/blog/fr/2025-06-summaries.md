@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "June 2025 - Résumé mensuel"
+title: "Juin 2025 - Résumé mensuel"
 tags: monthly-summary
 categories: monthly-summary
 pubDate: '2025-07-14'
